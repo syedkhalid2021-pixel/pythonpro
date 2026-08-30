@@ -1,2 +1,2 @@
 # pythonpro
-all python practice
+all python practice.
